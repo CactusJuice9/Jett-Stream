@@ -16,12 +16,11 @@ Heavy inspiration (Pretty much a complete copy lol) of TidyPrints’ PD Tigger c
 * Multimeter
 * Soldering Iron
 * 3D printer
-$\color{#FF0000}{like~this!}$
+
 **Printed Parts**
-```diff
-* 1x <code style="color : blue">Jett Stream Body</code>
-* 1x <code style="color : yellow">Jett Stream Lid</code>
-* 1x <code style="color : green">Jett Stream Buck Mount</code>
-* 1x <code style="color : red">Jett Stream PD Trigger Clamp</code>```
+* 1x $\color{#0000FF}{Jett Stream Body}$
+* 1x $\color{#FFFF00}{Jett Stream Lid}$
+* 1x $\color{#00FF00}{Jett Stream Buck Mount}$
+* 1x $\color{#FF0000}{Jett Stream PD Trigger Clamp}$
 
 
