@@ -11,7 +11,7 @@ The specific Firmware I will be using in this guide is [Khrull’s TCodeESP32 Fi
 
 Heavy inspiration (Pretty much a complete copy lol) of TidyPrints’ PD Tigger created for his SR6 Tray + Holder is used. [Find them here (TidyPrints Patreon)]([https://www.example.com](https://www.patreon.com/TidyPrints))
 
-##<ins>What you will need…</ins>
+#<ins>What you will need…</ins>
 
 **Tools**
 * Multimeter
@@ -42,7 +42,7 @@ Heavy inspiration (Pretty much a complete copy lol) of TidyPrints’ PD Tigger c
 | Mini MP1584EN DC-DC Buck Converter (x1)                         | https://www.amazon.com/MP1584EN-DC-DC-Converter-Adjustable-Module/dp/B01MQGMOKI                |
 | ESP32 DevKit Clone (x1)<br>(29mm x  51.75mm)                    | https://www.amazon.com/ELEGOO-ESP-WROOM-32-Development-Bluetooth-Microcontroller/dp/B0D8T53CQ5 |
 
-##**Build Guide**
+#Build Guide
 
 In most audio applications when dealing with a mono TS(Tip Sleeve) cable the Sleeve is ground and the Tip is audio/power (See IMG below)
 
