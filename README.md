@@ -10,7 +10,7 @@ The specific Firmware I will be using in this guide is [Khrull’s TCodeESP32 Fi
 
 Heavy inspiration (Pretty much a complete copy lol) of TidyPrints’ PD Tigger created for his SR6 Tray + Holder is used. [Find them here (TidyPrints Patreon)]([https://www.example.com](https://www.patreon.com/TidyPrints))
 
-<u>What you will need…</u>
+<ins>What you will need…</ins>
 
 **Tools**
 * Multimeter
@@ -18,7 +18,10 @@ Heavy inspiration (Pretty much a complete copy lol) of TidyPrints’ PD Tigger c
 * 3D printer
 
 **Printed Parts**
-* 1x <code style="color : blue">Jett Stream Body</code>
+```* 1x <code style="color : blue">Jett Stream Body</code>
 * 1x <code style="color : yellow">Jett Stream Lid</code>
 * 1x <code style="color : green">Jett Stream Buck Mount</code>
 * 1x <code style="color : red">Jett Stream PD Trigger Clamp</code>
+```
+
+
