@@ -1,4 +1,5 @@
 # Jett-Stream
+<img width="894" height="733" alt="Image" src="https://github.com/user-attachments/assets/7eaa618c-8a15-45e8-bb2d-cb59a16c0cfc" />
 A tool to help connect your Hot Octopuss Jett to the OSR/TCode ecosphere.
 
 > [!WARNING]
