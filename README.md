@@ -119,6 +119,6 @@ Flash the firmware onto the esp32 using the bottom usb c. The bottom usb c power
 13. Connect the Jett and test the device via the ESP32 IP or at tcode.local ensuring V0 & V1 controls both motors.
 
 ---
-Then you're all done I would highly recommend checking out [MultiFunPlayer by Yoooi0](https://github.com/Yoooi0/MultiFunPlayer) if you haven't before as you can hook this device to it to connect it to other applications and streaming platforms.
+Then you're all done! I would highly recommend checking out [MultiFunPlayer by Yoooi0](https://github.com/Yoooi0/MultiFunPlayer) if you haven't before. It's a great tool for hooking into applications and streaming platforms with TCode controlled devices.
 
 Also check out Vibhub for a similar open source tool in a much cleaner form factor then what I could ever make. [Find it here](https://vibhub.io/)
