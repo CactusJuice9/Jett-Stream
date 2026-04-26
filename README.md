@@ -120,3 +120,5 @@ Flash the firmware onto the esp32 using the bottom usb c. The bottom usb c power
 
 ---
 Then you're all done I would highly recommend checking out [MultiFunPlayer by Yoooi0](https://github.com/Yoooi0/MultiFunPlayer) if you haven't before as you can hook this device to it to connect it to other applications and streaming platforms.
+
+Also check out Vibhub for a similar open source tool in a much cleaner form factor then what I could ever make. [Find it here](https://vibhub.io/)
