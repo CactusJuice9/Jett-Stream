@@ -48,7 +48,7 @@ Heavy inspiration (Pretty much a complete copy lol) of TidyPrints’ PD Tigger c
 | MX1616H Dual H-Bridge DC Stepper (x1)<br><br>(21mm x 24.7mm)            | https://www.amazon.com/Aideepen-Driver-H-Bridge-Replace-Stepper/dp/B075S368Y2                  |
 | Mini MP1584EN DC-DC Buck Converter (x1)<br><br>(22mm x 17mm)                         | https://www.amazon.com/MP1584EN-DC-DC-Converter-Adjustable-Module/dp/B01MQGMOKI                |
 | ESP32 DevKit Clone (x1)<br><br>(29mm x  51.75mm)                    | https://www.amazon.com/ELEGOO-ESP-WROOM-32-Development-Bluetooth-Microcontroller/dp/B0D8T53CQ5 |
-| 2.5mm Male Plug to Bare Wire Open End TS 2 Pole Mono Plug Jack<br><br>(Optional)                    | https://www.amazon.com/2-5mm-Connector-Audio-Cable-Repair/dp/B08Z736R5D              |
+| 2.5mm Male Plug to Bare Wire Open End TS 2 Pole Mono Plug Jack (Optional)                    | https://www.amazon.com/2-5mm-Connector-Audio-Cable-Repair/dp/B08Z736R5D              |
 
 # Build Guide
 
