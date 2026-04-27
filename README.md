@@ -103,7 +103,7 @@ Alternatively you can wire the Dual H-Bridge DC Stepper output forward with IN1 
 
 10. Attach your power dupont wire pair to GND and VIN. Then connect your H-bridge IN2 & IN4 to GPIO pin 18 & 19
 
-<img width="448" height="318" alt="Image" src="https://github.com/user-attachments/assets/75f09030-19d5-4bf4-a6d3-af89e8816f19" />
+<img width="448" height="318" alt="Image" src="https://github.com/user-attachments/assets/75f09030-19d5-4bf4-a6d3-af89e8816f19" /> <img width="511" height="673" alt="Image" src="https://github.com/user-attachments/assets/fff16423-364b-4673-ad0d-647eda803f78" />
 
 11. Wire manage the print making sure everything is inside the case except for the 2.5mm snap in jacks which can hand out the holes. Place the printed Lid on top of the Jett Stream Body and secure it with 4 M3 x 8mm bolts. Finally snap the 2.5mm jacks into their mounting holes.
 
