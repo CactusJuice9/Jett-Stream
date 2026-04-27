@@ -29,7 +29,7 @@ Heavy inspiration (Pretty much a complete copy lol) of TidyPrints’ PD Tigger c
 <img width="525" height="331" alt="Image" src="https://github.com/user-attachments/assets/13e4e58d-4b14-4b68-9ecf-79499b837de8" />
 
 > [!NOTE]
->Alternative Body and Lid avalible to have the mounting holes completely on the body rather than split between the body and lid.
+>Alternative Body and Lid avalible to have the 2.5mm jack mounting holes completely on the body rather than split between the body and lid.
 
 **Other Items**
 | Item (#)                                                        | Example Purchase Link                                                                          |
