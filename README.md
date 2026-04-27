@@ -117,10 +117,9 @@ Alternatively you can wire the Dual H-Bridge DC Stepper output forward with IN1 
 
 Flash the firmware onto the esp32 using the bottom usb c. The bottom usb c powers just the ESP32; use this one to upload firmware and connect the device via serial. The top device will power the motors and the ESP32 however doesn't have data pins connected to the ESP32. Once you have Khrull’s firmware this isn’t an issue as you can access the esp32 without it being connected to the computer.Follow the install guide and set the device type to a T-Vibe. V0 (Vib 1) and V1 (Vib 2) should already be set as 18 & 19 in the T-Vibe device profile; if not set them.
 
-The Original Jett works in Square waves. Because this tool gives you so much more control than what was intended you will have to set your Min/Max Device Range to clip some of the device range that doesnt do anything. Also if you are using MultiFunPlayer you can set a scale multiplier so that scripts and actions become less likely to fall into the range that the Jetts motors don't activate at.
+The Original Jett signal works in Square waves. Because this tool gives you so much more control than what was intended you will have to set your Min/Max Device Range to clip some of the device range that doesnt do anything. Also if you are using MultiFunPlayer you can set a scale multiplier so that actions become less likely to fall into the range that the Jetts motors don't activate at.
 
  <img width="352" height="229" alt="Image" src="https://github.com/user-attachments/assets/c22ace12-b133-4404-817a-58a932060eba" />
-
 
 13. Connect the Jett and test the device via the ESP32 IP or at tcode.local ensuring V0 & V1 controls both motors.
 
