@@ -62,7 +62,7 @@ The Original Hot Octopuss Jett is wired in reverse to what you would typically s
 
 In the wire diagram above I wired polarity to traditional audio rather than what the Jett uses. Because of this I wired the Dual H-Bridge DC Stepper on PWM IN2 & IN4. These pins drive the motors in reverse giving us our desired polarity. 
 
-Alternatively you can wire the Dual H-Bridge DC Stepper output forward with IN1 & IN3 and just wire the 2.5mm Mono Audio Panel Mount Snap-In with a flipped polarity (Sort leg negative/Long leg positive)
+Alternatively you can wire the Dual H-Bridge DC Stepper output forward with IN1 & IN3 and just wire the 2.5mm Mono Audio Panel Mount Snap-In with a flipped polarity (Short leg negative/Long leg positive)
 
 
 > [!CAUTION]
