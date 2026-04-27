@@ -45,9 +45,10 @@ Heavy inspiration (Pretty much a complete copy lol) of TidyPrints’ PD Tigger c
 | 3M VHB double sided tape (or other strong adhesive)             |                                                                                                |
 | 2.5mm Mono Audio Panel Mount Snap-In (x2)                       |                                                                                                |
 | Type-C PD3.0 QC 9V Trigger Board (x1)<br><br>(11.5mm x 21.5 mm) | https://www.amazon.com/Trigger-Voltage-Housing-Household-Electronics/dp/B0F23KSYQ5             |
-| MX1616H Dual H-Bridge DC Stepper (x1)(21mm x 24.7mm)            | https://www.amazon.com/Aideepen-Driver-H-Bridge-Replace-Stepper/dp/B075S368Y2                  |
-| Mini MP1584EN DC-DC Buck Converter (x1)                         | https://www.amazon.com/MP1584EN-DC-DC-Converter-Adjustable-Module/dp/B01MQGMOKI                |
-| ESP32 DevKit Clone (x1)<br>(29mm x  51.75mm)                    | https://www.amazon.com/ELEGOO-ESP-WROOM-32-Development-Bluetooth-Microcontroller/dp/B0D8T53CQ5 |
+| MX1616H Dual H-Bridge DC Stepper (x1)<br><br>(21mm x 24.7mm)            | https://www.amazon.com/Aideepen-Driver-H-Bridge-Replace-Stepper/dp/B075S368Y2                  |
+| Mini MP1584EN DC-DC Buck Converter (x1)<br><br>(22mm x 17mm)                         | https://www.amazon.com/MP1584EN-DC-DC-Converter-Adjustable-Module/dp/B01MQGMOKI                |
+| ESP32 DevKit Clone (x1)<br><br>(29mm x  51.75mm)                    | https://www.amazon.com/ELEGOO-ESP-WROOM-32-Development-Bluetooth-Microcontroller/dp/B0D8T53CQ5 |
+| 2.5mm Male Plug to Bare Wire Open End TS 2 Pole Mono Plug Jack<br><br>(Optional)                    | https://www.amazon.com/2-5mm-Connector-Audio-Cable-Repair/dp/B08Z736R5D              |
 
 # Build Guide
 
@@ -79,7 +80,7 @@ Alternatively you can wire the Dual H-Bridge DC Stepper output forward with IN1 
 
 <img width="373" height="185" alt="Image" src="https://github.com/user-attachments/assets/e00ce80e-c05d-406c-a828-f04fdf9257f2" />
 
-3. Adjust your voltage out of your buck converter using the adjustment screw until you get to your desired voltage using a multimeter. I set mine to ≈ 5.7 V; however, I recommend you take your own readings out of the original Hot Octopuss Jett and use those values as over-voltage can damage the motors.
+3. Adjust your voltage out of your buck converter using the adjustment screw until you get to your desired voltage using a multimeter. I set mine to ≈ 5.7 V, however, I recommend you take your own readings out of the original Hot Octopuss Jett and use those values as over-voltage can damage the motors.
 4. Apply tape to the Jett Stream Buck Mount
 
 <img width="318" height="212" alt="Image" src="https://github.com/user-attachments/assets/0e7f21cf-08ba-47bf-b27e-39d1fb5d4c82" />
