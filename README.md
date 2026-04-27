@@ -128,7 +128,7 @@ Flash the firmware onto the esp32 using the bottom usb c. The bottom usb c power
 
 The Original Jett signal works in square waves. Because this tool gives you so much more control than what was intended you will have to set your Min/Max Device Range to clip some of the device range that doesnt do anything. Also if you are using MultiFunPlayer you can set a scale multiplier so that actions become less likely to fall into the range that the Jetts motors don't activate at.
 
-13. Connect the Jett and test the device via the ESP32 IP or at tcode.local ensuring V0 & V1 controls both motors.
+13. Connect the Jett and test the device via the ESP32 IP found in the firmware guide or at tcode.local ensuring V0 & V1 controls both motors.
 
 ---
 Then you're all done! I would highly recommend checking out [MultiFunPlayer by Yoooi0](https://github.com/Yoooi0/MultiFunPlayer) if you haven't before. It's a great tool for hooking into applications and streaming platforms with TCode controlled devices.
@@ -138,7 +138,7 @@ Also check out Vibhub for a similar open source tool in a much cleaner form fact
 
 ### <sub>What else can I do with this?</sub>
 
-<sub>This really is just a Buck converter and DC motor controller stuffed into a pretty box; Other than that it's the exact same as Tempest's T-Vibe. Thus, you can attach whatever Vibration Toy you want to it. You can remove the 2.5mm jacks all together if you want to use a different vibe bullet. You can make it into a Pogo pin connector, another random Molex Connector, or even just direct wire a different device right to the motor controller. All you have to do is adjust your voltage to whatever your new you needs and ensure the H-Bridge stepper you chose isnt going to current limit it. Also remeber to drive your toy in the same polarity to whatever original deivce you are modding. This shouldnt matter as most DC motors can be driven forward and in reverse but its not worth finding out by frying your new toy. H-Bridge input IN1 & IN3 drive motors forward and IN2 & IN4 drive in reverse.</sub>
+<sub>This really is just a Buck converter and DC motor controller stuffed into a pretty box; Other than that it's the exact same as Tempest's T-Vibe. Thus, you can attach whatever Vibration Toy you want to it. You can remove the 2.5mm jacks all together if you want to use a different vibe bullet. You can make it into a Pogo pin connector, another random Molex Connector, or even just direct wire a different device right to the motor controller. All you have to do is adjust your voltage to whatever your new toy needs. Also remeber to drive your toy in the same polarity to whatever original deivce you are modding. This shouldnt matter as most DC motors can be driven forward and in reverse but its not worth finding out by frying your new toy. H-Bridge input IN1 & IN3 drive motors forward and IN2 & IN4 drive in reverse.</sub>
 
 
 -CactusJuice
