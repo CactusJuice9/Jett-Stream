@@ -121,7 +121,8 @@ Flash the firmware onto the esp32 using the bottom usb c. The bottom usb c power
  
  Follow the install guide and set the device type to a T-Vibe. V0 (Vib 1) and V1 (Vib 2) should already be set as 18 & 19 in the T-Vibe device profile; if not set them.
 
-<img width="1104" height="609" alt="Image" src="https://github.com/user-attachments/assets/abcae185-9941-41d7-a209-350f54a25130" />
+<img width="550" height="300" alt="Image" src="https://github.com/user-attachments/assets/abcae185-9941-41d7-a209-350f54a25130" />
+
 
 The Original Jett signal works in square waves. Because this tool gives you so much more control than what was intended you will have to set your Min/Max Device Range to clip some of the device range that doesnt do anything. Also if you are using MultiFunPlayer you can set a scale multiplier so that actions become less likely to fall into the range that the Jetts motors don't activate at.
 
