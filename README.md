@@ -81,6 +81,7 @@ Alternatively you can wire the Dual H-Bridge DC Stepper output forward with IN1 
 <img width="373" height="185" alt="Image" src="https://github.com/user-attachments/assets/e00ce80e-c05d-406c-a828-f04fdf9257f2" />
 
 3. Adjust your voltage out of your buck converter using the adjustment screw until you get to your desired voltage using a multimeter. I set mine to ≈ 5.7 V, however, I recommend you take your own readings out of the original Hot Octopuss Jett and use those values as over-voltage can damage the motors. This is where the optional 2.5mm Male Plug to Bare Wire would come in handy to measure the voltage out of the original Hot Octopuss Jett.
+
 4. Apply tape to the Jett Stream Buck Mount
 
 <img width="318" height="212" alt="Image" src="https://github.com/user-attachments/assets/0e7f21cf-08ba-47bf-b27e-39d1fb5d4c82" />
