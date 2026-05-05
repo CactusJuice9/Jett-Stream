@@ -64,7 +64,7 @@ In the wire diagram above I wired polarity to traditional audio rather than what
 
 Alternatively you can wire the Dual H-Bridge DC Stepper output forward with IN1 & IN3 and just wire the 2.5mm Mono Audio Panel Mount Snap-In with a flipped polarity (Short leg negative/Long leg positive)
 
-$\color{#F527E0}{*The\ buck\ converter\ is\ optional\ if\ you\ have\ your\ PD\ trigger\ set\ to\ supply\ 5V.\ You\ can\ wire\ straight\ from\ the\ PD\ trigger;\ for\ example,\ on\ the\ trigger\ I\ use,\ by\ leaving\ all\ pins\ (9V,\ 12V,\ 15V,\ 20V)\ unbridged.\ Even\ though\ it\ is\ unneeded\ for\ the\ Jett,\ it\ can\ be\ handy\ for\ powering\ other\ vibrators\ that\ require\ more\ voltage,\ so\ it\ is\ a\ good\ option\ to\ have.\ If\ you\ decide\ that\ you\ are\ not\ interested\ in\ the\ buck\ converter,\ just\ wire\ straight\ through\ it\ in\ the\ build\ diagram.}$   
+$\color{#F527E0}{*The\ buck\ converter\ is\ optional\ if\ you\ have\ your\ PD\ trigger\ set\ to\ supply\ 5V.\ You\ can\ wire\ straight\ from\ the\ PD\ trigger;\\ for\ example,\ on\ the\ trigger\ I\ use,\ by\ leaving\ all\ pins\ (9V,\ 12V,\ 15V,\ 20V)\ unbridged.\ Even\ though\ it\ is\ unneeded\ for\ the\ Jett,\ it\ can\ be\ handy\ for\ powering\ other\ vibrators\ that\ require\ more\ voltage,\ so\ it\ is\ a\ good\ option\ to\ have.\\ If\ you\ decide\ that\ you\ are\ not\ interested\ in\ the\ buck\ converter,\ just\ wire\ straight\ through\ it\ in\ the\ build\ diagram.}$   
 
 > [!CAUTION]
 > VOLTAGE TO/FROM THE BUCK CONVERTER & INTO ESP32/H-BRIDGE SHOULD ALWAYS BE WIRED IN CORRECT POLARITY
@@ -79,7 +79,7 @@ $\color{#F527E0}{*If\ you\ are\ not\ using\ a\ DC-DC\ buck\ converter\ output\ t
 <img width="99" height="175" alt="Image" src="https://github.com/user-attachments/assets/72fd6164-895e-4553-bffe-e35edfc9c486" />
 
 2. Wire the PD trigger to your buck converter ensuring the USB-C PD trigger is wired to the input side of the buck converter (Usually an arrow showing direction on the bottom). Wire your 2 dupont connectors (for ESP32) and 2 extra wires (for H-bridge).
-$\color{#F527E0}{*If\ you\ are\ not\ using\ a\ buck\ converter,\ just\ wire\ your\ two\ Dupont\ connectors\ (for\ the\ ESP32)\ and\ two\ extra\ wires\ (for\ the\ H-bridge)\ straight\ to\ the\ PD\ trigger\ (5V\ configuration).}$
+$\color{#F527E0}{*If\ you\ are\ not\ using\ a\ buck\ converter,\ just\ wire\ your\ two\ Dupont\ connectors\\ (for\ the\ ESP32)\ and\ two\ extra\ wires\ (for\ the\ H-bridge)\ straight\ to\ the\ PD\ trigger\ (5V\ configuration).}$
 
 <img width="373" height="185" alt="Image" src="https://github.com/user-attachments/assets/e00ce80e-c05d-406c-a828-f04fdf9257f2" />
 
@@ -91,11 +91,11 @@ $\color{#F527E0}{*Skip\ this\ if\ you\ are\ not\ using\ a\ buck\ converter.}$
 <img width="318" height="212" alt="Image" src="https://github.com/user-attachments/assets/0e7f21cf-08ba-47bf-b27e-39d1fb5d4c82" />
 
 5. Mount the PD Tigger onto the Buck Mount and place the PD Trigger Clamp on top to secure it in place. Use a M2 x 4mm bolt to secure the clamp in place. Mount the buck converter onto the Buck Mount using the tape to fix it in place.
-$\color{#F527E0}{*If\ you\ are\ not\ using\ a\ buck\ converter,\ mount\ the\ PD\ trigger\ (5V\ configuration)\ onto\ the\ mount\ and\ place\ the\ PD\ trigger\ clamp\ on\ top\ to\ secure\ it\ in\ place.\ Use\ an\ M2\ x\ 4mm\ bolt\ to\ secure\ the\ clamp\ in\ place.}$
+$\color{#F527E0}{*If\ you\ are\ not\ using\ a\ buck\ converter,\ mount\ the\ PD\ trigger\ (5V\ configuration)\ onto\ the\ mount\ and\ place\ the\ PD\ trigger\ clamp\ on\ top\ to\ secure\ it\ in\ place.\\ Use\ an\ M2\ x\ 4mm\ bolt\ to\ secure\ the\ clamp\ in\ place.}$
 
 <img width="334" height="175" alt="Image" src="https://github.com/user-attachments/assets/60371b59-bcb1-4616-91dc-d0781429a1b4" />
 
-7. Wire the 2 extra H-Bridge wires from the buck $\color{#F527E0}{*(or\ PD\ trigger\ (5V\ configuration)\ if\ not\ using\ a\ buck)}$ to your H-Bridge. Also attach 2 female dupont cables to IN2 & IN4 (assuming using the same polarity/wire diagram I did) and wire a red & black wire pair to the motor-A and motor-B output. This image is a mess so be sure to consult the wire diagram.
+6. Wire the 2 extra H-Bridge wires from the buck $\color{#F527E0}{*(or\ PD\ trigger\ (5V\ configuration)\ if\ not\ using\ a\ buck)}$ to your H-Bridge. Also attach 2 female dupont cables to IN2 & IN4 (assuming using the same polarity/wire diagram I did) and wire a red & black wire pair to the motor-A and motor-B output. This image is a mess so be sure to consult the wire diagram.
 
 <img width="310" height="327" alt="Image" src="https://github.com/user-attachments/assets/a8ccdd99-d27c-4c4d-b226-9a090e5d0544" />
 
