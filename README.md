@@ -83,7 +83,8 @@ $\color{#F527E0}{*If\ you\ are\ not\ using\ a\ DC-DC\ buck\ converter\ output\ t
 <img width="99" height="175" alt="Image" src="https://github.com/user-attachments/assets/72fd6164-895e-4553-bffe-e35edfc9c486" />
 
 2. Wire the PD trigger to your buck converter ensuring the USB-C PD trigger is wired to the input side of the buck converter (Usually an arrow showing direction on the bottom). Wire your 2 dupont connectors (for ESP32) and 2 extra wires (for H-bridge).
-$\color{#F527E0}{*If\ you\ are\ not\ using\ a\ buck\ converter,\ just\ wire\ your\ two\ Dupont\ connectors\\ (for\ the\ ESP32)\ and\ two\ extra\ wires\ (for\ the\ H-bridge)\ straight\ to\ the\ PD\ trigger\ (5V\ configuration).}$
+$\color{#F527E0}{*If\ you\ are\ not\ using\ a\ buck\ converter,\ just\ wire\ your\ two\ Dupont\ connectors}$
+$\color{#F527E0}{(for\ the\ ESP32)\ and\ two\ extra\ wires\ (for\ the\ H-bridge)\ straight\ to\ the\ PD\ trigger\ (5V\ configuration).}$
 
 <img width="373" height="185" alt="Image" src="https://github.com/user-attachments/assets/e00ce80e-c05d-406c-a828-f04fdf9257f2" />
 
@@ -95,7 +96,8 @@ $\color{#F527E0}{*Skip\ this\ if\ you\ are\ not\ using\ a\ buck\ converter.}$
 <img width="318" height="212" alt="Image" src="https://github.com/user-attachments/assets/0e7f21cf-08ba-47bf-b27e-39d1fb5d4c82" />
 
 5. Mount the PD Tigger onto the Buck Mount and place the PD Trigger Clamp on top to secure it in place. Use a M2 x 4mm bolt to secure the clamp in place. Mount the buck converter onto the Buck Mount using the tape to fix it in place.
-$\color{#F527E0}{*If\ you\ are\ not\ using\ a\ buck\ converter,\ mount\ the\ PD\ trigger\ (5V\ configuration)\ onto\ the\ mount\ and\ place\ the\ PD\ trigger\ clamp\ on\ top\ to\ secure\ it\ in\ place.\\ Use\ an\ M2\ x\ 4mm\ bolt\ to\ secure\ the\ clamp\ in\ place.}$
+$\color{#F527E0}{*If\ you\ are\ not\ using\ a\ buck\ converter,\ mount\ the\ PD\ trigger\ (5V\ configuration)\ onto\ the\ mount\ and\ place\ the\ PD\ trigger\ clamp\ on\ top\ to\ secure\ it\ in\ place.}$  
+$\color{#F527E0}{Use\ an\ M2\ x\ 4mm\ bolt\ to\ secure\ the\ clamp\ in\ place.}$
 
 <img width="334" height="175" alt="Image" src="https://github.com/user-attachments/assets/60371b59-bcb1-4616-91dc-d0781429a1b4" />
 
