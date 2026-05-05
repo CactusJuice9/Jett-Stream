@@ -96,8 +96,8 @@ $\color{#F527E0}{*Skip\ this\ if\ you\ are\ not\ using\ a\ buck\ converter.}$
 <img width="318" height="212" alt="Image" src="https://github.com/user-attachments/assets/0e7f21cf-08ba-47bf-b27e-39d1fb5d4c82" />
 
 5. Mount the PD Tigger onto the Buck Mount and place the PD Trigger Clamp on top to secure it in place. Use a M2 x 4mm bolt to secure the clamp in place. Mount the buck converter onto the Buck Mount using the tape to fix it in place.
-$\color{#F527E0}{*If\ you\ are\ not\ using\ a\ buck\ converter,\ mount\ the\ PD\ trigger\ (5V\ configuration)\ onto\ the\ mount\ and\ place\ the\ PD\ trigger\ clamp\ on\ top\ to\ secure\ it\ in\ place.}$  
-$\color{#F527E0}{Use\ an\ M2\ x\ 4mm\ bolt\ to\ secure\ the\ clamp\ in\ place.}$
+$\color{#F527E0}{*If\ you\ are\ not\ using\ a\ buck\ converter,\ mount\ the\ PD\ trigger\ (5V\ configuration)\ onto\ the\ mount\ and\ place\ the\ PD}$  
+$\color{#F527E0}{trigger\ clamp\ on\ top\ to\ secure\ it\ in\ place. Use\ an\ M2\ x\ 4mm\ bolt\ to\ secure\ the\ clamp\ in\ place.}$
 
 <img width="334" height="175" alt="Image" src="https://github.com/user-attachments/assets/60371b59-bcb1-4616-91dc-d0781429a1b4" />
 
