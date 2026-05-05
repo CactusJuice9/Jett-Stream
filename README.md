@@ -64,13 +64,15 @@ In the wire diagram above I wired polarity to traditional audio rather than what
 
 Alternatively you can wire the Dual H-Bridge DC Stepper output forward with IN1 & IN3 and just wire the 2.5mm Mono Audio Panel Mount Snap-In with a flipped polarity (Short leg negative/Long leg positive)
 
-\[
-\color{#F527E0}{
-*The\ buck\ converter\ is\ optional\ if\ you\ have\ your\ PD\ trigger\ set\ to\ supply\ 5V.\ You\ can\ wire\ straight\ from\ the\ PD\ trigger;\\
-for\ example,\ on\ the\ trigger\ I\ use,\ by\ leaving\ all\ pins\ (9V,\ 12V,\ 15V,\ 20V)\ unbridged.\ Even\ though\ it\ is\ unneeded\ for\ the\ Jett,\ it\ can\ be\ handy\ for\ powering\ other\ vibrators\ that\ require\ more\ voltage,\ so\ it\ is\ a\ good\ option\ to\ have.\\
-If\ you\ decide\ that\ you\ are\ not\ interested\ in\ the\ buck\ converter,\ just\ wire\ straight\ through\ it\ in\ the\ build\ diagram.
-}
-\]
+<span style="color:#F527E0">
+
+*The buck converter is optional if you have your PD trigger set to supply 5V. You can wire straight from the PD trigger.*
+
+For example, on the trigger I use, by leaving all pins (9V, 12V, 15V, 20V) unbridged. Even though it is unneeded for the Jett, it can be handy for powering other vibrators that require more voltage, so it is a good option to have.
+
+If you decide that you are not interested in the buck converter, just wire straight through it in the build diagram.
+
+</span>
 
 > [!CAUTION]
 > VOLTAGE TO/FROM THE BUCK CONVERTER & INTO ESP32/H-BRIDGE SHOULD ALWAYS BE WIRED IN CORRECT POLARITY
