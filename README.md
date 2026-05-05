@@ -52,7 +52,7 @@ Heavy inspiration (Pretty much a complete copy lol) of TidyPrints’ PD Tigger c
 
 # Build Guide
 
-<img width="493" height="310" alt="Image" src="https://github.com/user-attachments/assets/8a20f77b-d411-444c-be78-aa2df7e595ed" />
+<img width="493" height="310" alt="Image" src="https://github.com/user-attachments/assets/fe977f74-3b8e-4c5c-bb85-7f53a7cfa4ac" />
 
 In most audio applications when dealing with a mono TS(Tip Sleeve) cable the Sleeve is ground and the Tip is audio/power (See IMG below)
 
